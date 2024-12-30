@@ -1,5 +1,7 @@
 # Logic Chess Track Game | 轨道逻辑棋
 
+Download: [here](https://github.com/AlvinChiew/logic-chess-track-game/raw/refs/heads/main/logic_chess_track_game_v1.0.0.apk)
+
 A fun and simple orbital logic board game inspired by gameplay in TikTok! The game logic is designed to test and train IQ through spatial reasoning and pattern recognition. Will be released to Android Play Store (potentially other platforms, e.g. Apple Store, Desktop, Website) soon!
 
 ## TODO
