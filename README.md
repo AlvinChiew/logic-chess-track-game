@@ -12,7 +12,9 @@ A fun and simple orbital logic board game inspired by gameplay in TikTok! The ga
 
 ## Demo
 
-https://github.com/user-attachments/assets/ab3aaeaf-3642-4f62-9a9c-57fd53c6eeac
+https://github.com/user-attachments/assets/8fa3edbc-7f41-46e2-9c80-0c2d83d6c64b
+
+
 
 ## Interface
 
