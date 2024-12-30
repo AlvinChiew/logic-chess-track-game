@@ -4,10 +4,8 @@ A fun and simple orbital logic board game inspired by gameplay in TikTok! The ga
 
 ## TODO
 
-1. AI Bot for 1 player.
-1. Monetization (ads, premium user)
-1. Online 1v1 (, leaderboard)
-1. Audio / BGM
+1. Upgrade AI Bot
+1. Online 1v1 (leaderboard)
 
 ## Demo
 
